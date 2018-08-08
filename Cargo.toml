@@ -1,0 +1,6 @@
+[package]
+name = "bsearch"
+version = "0.1.0"
+authors = ["Mario Esteban Viapiano <marioeviapiano@gmail.com>"]
+
+[dependencies]
